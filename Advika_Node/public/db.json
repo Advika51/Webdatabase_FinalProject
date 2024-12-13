@@ -1,0 +1,90 @@
+{"books":[
+  {
+    "Event_Id": 1,
+    "Title": "Ariana Grande: Sweetener World Tour",
+    "Event_Type": "Music Concert",
+    "Description": "Experience global pop sensation Ariana Grande performing live",
+    "Featured_Artists": "Ariana Grande, Special Guest: Normani",
+    "Date_and_Time": "December 2, 2024, 8:00 PM",
+    "Location": "Madison Square Garden, Pennsylvania Plaza, New York, NY ",
+    "Ticket_Price": "$120",
+    "Availability": true,
+    "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCDibwzB2Q6PKNh6oFzTgjnSsHTYPso19FcCzpfpm4Kkrk-KKI2aP70X8_2WebRimfhrg&usqp=CAU",
+    "Photo2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCoJaUx3K4M-2QFzuabswc0D6zAt5qdwYR5A&s",
+    "Photo3":"https://media.self.com/photos/5e70f72443731c000882cfe7/4:3/w_2560%2Cc_limit/GettyImages-125112134.jpg"
+  },
+  {
+    "Event_Id": 2,
+    "Title": "2024 NFL Playoffs: New York Giants vs. Dallas Cowboys",
+    "Event_Type": "American Football",
+    "Description": "Don’t miss this 2024 NFL Playoff match",
+    "Featured_Artists": "Daniel Jones; Dak Prescott",
+    "Date_and_Time": "December 7, 2024, 1:00 PM",
+    "Location": "MetLife Stadium, East Rutherford, NJ 07073",
+    "Ticket_Price": "$100",
+    "Availability": false,
+    "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebHNvqFQW8J-Vf5fYuq_G4hrJodkNgD33jw&s",
+    "Photo2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBsWy94yXnv1qtNnhQu1IFa3lmCYa4qXjltQ&s",
+    "Photo3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7yVpwmmEREQxPuEKe9I1SS6_aCNaeAIldJA&s"
+  },
+  {
+    "Event_Id": 3,
+    "Title": "Holiday Lights Festival",
+    "Event_Type": "Local festival",
+    "Description": "Enjoy twinkling lights and live music performances",
+    "Featured_Artists": "Local bands",
+    "Date_and_Time": "December 5-7, 2024, 5:00 PM - 9:00 PM",
+    "Location": "Central Park, New York, NY 10024",
+    "Ticket_Price": "Free entry (Ice skating rentals: $20)",
+    "Availability": true,
+    "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ3cZ178uIjb95GvrenBjyXEEDYxHZ3vMqg&s",
+    "Photo2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbs2_6aMVD1pI5O_wz92iI5Wnx6aMLw5cmPw&s",
+    "Photo3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMuSNU1DWlAnjGHENKZhi_5V8n3SxiXFjoQ&s"
+  
+  },
+  {
+    "Event_Id": 4,
+    "Title": "Monet: A Masterpiece Exhibit",
+    "Event_Type": "Art Exhibit",
+    "Description": "Explore the beauty of Claude Monet’s works",
+    "Featured_Artists": "Claude Monet, Edgar Degas",
+    "Date_and_Time": "December 6-10, 2024, 10:00 AM - 7:00 PM",
+    "Location": "Museum of Modern Art (MoMA), 11 W 53rd St, NY 10019",
+    "Ticket_Price": "$30",
+    "Availability": true,
+    "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMI6DHZzLC8eZN3D1k-jhzNwOIIH0Uyv5vs0bb-SkRWG-ppIhFcrCJ78H6kQen7MaIVM&usqp=CAU",
+    "Photo2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1-G9BT6QMyA8f9ThDKMskTnJNOLZs0kOjw&s",
+    "Photo3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfoqZ41m9MQEktbSQFXYu9TA47HKAGK0wohQ&s"
+  },
+  {
+    "Event_Id": 5,
+    "Title": "Cirque du Soleil: OVO",
+    "Event_Type": "Circus",
+    "Description": "Get ready for a dazzling performance from Cirque du Soleil’s OVO",
+    "Featured_Artists": "Cirque du Soleil performers",
+    "Date_and_Time": "December 8, 2024, 2:00 PM & 7:30 PM",
+    "Location": "Barclays Center, 620 Atlantic Ave, NY 11217",
+    "Ticket_Price": "$50",
+    "Availability": false,
+    "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxohzwzGC4joLsj6ijxr5IpcQ4dGQzc8oEvw&s",
+    "Photo2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU2IIcjWxmTLA1GGgxnCLWRxQEw3XN_HSBuA&s",
+    "Photo3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVArbGewaLTWHRHvehx7k1TE8WO723enxWQ&s"
+  },
+  {
+    "Event_Id": 6,
+    "Title": "The New York Film Festival 2024",
+    "Event_Type": "Film Festival",
+    "Description": "Star-studded premiere-Killers of the Flower Moon",
+    "Featured_Artists": "Martin Scorsese (Director), Leonardo DiCaprio, Robert Niro",
+    "Date_and_Time": "December 7, 2024, 6:00 PM",
+    "Location": "Alice Tully Hall, Lincoln Center, 1941 Broadway, New York, NY 10023",
+    "Ticket_Price": "$40 - $150 (depending on seating)",
+    "Availability": true,
+    "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMzIaO5_8dCUf6Q6HnwbcX3Fr2lxhs4Irk3AsxsV52U3uWRbcpFUhH9pn3m2E3oGGG_TM&usqp=CAU",
+    "Photo2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFOzIHozG5hCLKp4aBvPyBcNb0Cmyq60KQ9Q&s",
+    "Photo3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk96PVEAKPSp5hhiD4IooLIIlflsfX3J4alw&s"
+  }
+
+
+  
+]}
