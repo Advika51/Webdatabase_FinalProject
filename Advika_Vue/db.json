@@ -1,0 +1,80 @@
+{"books":[
+  {
+    "Event_Id": 1,
+    "Title": "Ariana Grande: Sweetener World Tour",
+    "Event_Type": "Music Concert",
+    "Description": "Ariana Grande performing live",
+    "Featured_Artists": "Ariana Grande",
+    "Date_and_Time": "December 2, 2024, 8:00 PM",
+    "Location": "Madison Square Garden, New York",
+    "Ticket_Price": "$120",
+    "Availability": true,
+    "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCDibwzB2Q6PKNh6oFzTgjnSsHTYPso19FcCzpfpm4Kkrk-KKI2aP70X8_2WebRimfhrg&usqp=CAU"
+    
+  },
+  {
+    "Event_Id": 2,
+    "Title": "2024 NFL Playoffs",
+    "Event_Type": "American Football",
+    "Description": "Don’t miss this 2024 NFL Playoff match",
+    "Featured_Artists": "Daniel Jones; Dak Prescott",
+    "Date_and_Time": "December 7, 2024, 1:00 PM",
+    "Location": "MetLife Stadium, NJ 07073",
+    "Ticket_Price": "$100",
+    "Availability": false,
+    "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebHNvqFQW8J-Vf5fYuq_G4hrJodkNgD33jw&s"
+  },
+  {
+    "Event_Id": 3,
+    "Title": "Holiday Lights Festival",
+    "Event_Type": "Local festival",
+    "Description": "Enjoy twinkling lights and live music",
+    "Featured_Artists": "Local bands",
+    "Date_and_Time": "December 5, 2024, 5:00 PM",
+    "Location": "Central Park, New York",
+    "Ticket_Price": "Free entry (Ice skating rentals: $20)",
+    "Availability": false,
+    "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ3cZ178uIjb95GvrenBjyXEEDYxHZ3vMqg&s"
+  
+  },
+  {
+    "Event_Id": 4,
+    "Title": "Monet: A Masterpiece Exhibit",
+    "Event_Type": "Art Exhibit",
+    "Description": " Claude Monet’s art works",
+    "Featured_Artists": "Claude Monet, Edgar Degas",
+    "Date_and_Time": "December 6, 2024, 10:00 AM",
+    "Location": "Museum of Modern Art (MoMA), NY ",
+    "Ticket_Price": "$30",
+    "Availability": true,
+    "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMI6DHZzLC8eZN3D1k-jhzNwOIIH0Uyv5vs0bb-SkRWG-ppIhFcrCJ78H6kQen7MaIVM&usqp=CAU"
+
+  },
+  {
+    "Event_Id": 5,
+    "Title": "Cirque du Soleil: OVO",
+    "Event_Type": "Circus",
+    "Description": "Entertaining stunts",
+    "Featured_Artists": "Cirque du Soleil performers",
+    "Date_and_Time": "December 8, 2024, 2:00 PM",
+    "Location": "Barclays Center, NY 11217",
+    "Ticket_Price": "$50",
+    "Availability": true,
+    "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxohzwzGC4joLsj6ijxr5IpcQ4dGQzc8oEvw&s"
+  },
+  {
+    "Event_Id": 6,
+    "Title": "The New York Film Festival 2024",
+    "Event_Type": "Film Festival",
+    "Description": "Star-studded premiere-Killers",
+    "Featured_Artists": "Martin Scorsese (Director)",
+    "Date_and_Time": "December 7, 2024, 6:00 PM",
+    "Location": "Alice Tully Hall, New York",
+    "Ticket_Price": "$40 - $150 (depending on seating)",
+    "Availability": false,
+    "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMzIaO5_8dCUf6Q6HnwbcX3Fr2lxhs4Irk3AsxsV52U3uWRbcpFUhH9pn3m2E3oGGG_TM&usqp=CAU"
+  }
+
+
+  
+]}
